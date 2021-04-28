@@ -33,7 +33,19 @@
 ## Langkah Ke Sebelas
 ![11](https://user-images.githubusercontent.com/56240386/116407405-f290d380-a85b-11eb-90d0-33a29f4329bd.png)
 
-## Pertanyaan Dan Tugas
+# Pertanyaan Dan Tugas
 
-Membuat Script untuk melakukan Validasi Pada isian Form.
+## Membuat Script untuk melakukan Validasi Pada isian Form.
+
+Pertama Kita akan buat dulu sebuah Form Sederhana.
+![Form](https://user-images.githubusercontent.com/56240386/116414735-ebb98f00-a862-11eb-8446-a7b5887ea86b.png)
+
+Kemudian Membuat File dengan nama Style.Css. Karena Kita akan Mendesign Tampilan Form.
+![Css](https://user-images.githubusercontent.com/56240386/116414964-28858600-a863-11eb-84cf-42e2d348b20b.png)
+
+Hasil Form Validasi
+![Hasil Form + Css](https://user-images.githubusercontent.com/56240386/116415051-3f2bdd00-a863-11eb-9f0f-c07472cf9954.png)
+
+Coba KLik Tombol daftar tanpa mengisi  Form. Maka akan muncul Pemberitahuan "Anda harus mengisi data dengan lengkap !"
+![Klik Tombol](https://user-images.githubusercontent.com/56240386/116415302-7bf7d400-a863-11eb-81be-edfe9123c38f.png)
 
